@@ -22,4 +22,9 @@ def graph_data():
     
     plt.show()
 
-graph_data()
+#graph_data()
+
+
+ls = [5,4,7,8,2,6,10,9]
+d = [x for x in ls if x%2 == 0]
+print(d)
