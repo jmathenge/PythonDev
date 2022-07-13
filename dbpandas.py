@@ -28,3 +28,7 @@ def graph_data():
 ls = [5,4,7,8,2,6,10,9]
 d = [x for x in ls if x%2 == 0]
 print(d)
+
+def add(a,b):
+    print(a+b)
+    
