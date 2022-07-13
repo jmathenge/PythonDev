@@ -28,8 +28,16 @@ def retrieve():
        print(row) 
     
 
-retrieve()
+#retrieve()
 
+
+def add(*args):
+    return sum(args)
+
+
+def mult(a, b):
+    ans = a * b
+    return ans
 
 
 
