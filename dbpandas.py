@@ -32,3 +32,4 @@ print(d)
 def add(a,b):
     print(a+b)
     
+print("New statement")
